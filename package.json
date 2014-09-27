@@ -19,8 +19,8 @@
   "author": "Elliott Linder",
   "license": "GPL",
   "dependencies": {
+    "bluebird": "^2.3.2",
     "chokidar": "^0.8.4",
-    "deferred": "^0.7.1",
     "googleapis": "^1.0.14"
   }
 }
